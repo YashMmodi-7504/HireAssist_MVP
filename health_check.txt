@@ -1,0 +1,2 @@
+STATUS=200
+BODY={"status":"ok","service":"hireassist-api","version":"1.0.0"}
